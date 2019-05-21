@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bd</string>
+    <string name="fb_app_id">1342341065867889</string>
+    <string name="ak_client_token">468e0d3270c36a7265c6403dde8943fb</string>
+
+    <string name="fb_login_protocol_scheme">fb1342341065867889</string>
+</resources>
